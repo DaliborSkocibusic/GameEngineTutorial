@@ -1,17 +1,22 @@
 #include <Hazel.h>
 
-namespace Hazel {
+class Sandbox : public Hazel::Application
+{
+public:
+	Sandbox()
+	{
 
-	// Need to change to dll functino
-	//void Print();
+	}
 
-	__declspec(dllimport) void Print();
+	~Sandbox()
+	{
 
-}
+	}
+};
 
-void main() {
-
-	Hazel::Print();
+Hazel::Application* Hazel::CreateApplication()
+{
+	return new Sandbox();
 }
 
 //Up to here

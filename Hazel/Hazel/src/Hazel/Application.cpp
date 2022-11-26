@@ -1,4 +1,5 @@
 #include "Application.h"
+#include <iostream>
 
 namespace Hazel {
 
@@ -10,7 +11,10 @@ namespace Hazel {
 
 	void Application::Run()
 	{
-		while (true);
+		while (true)
+		{
+			//std::cout << "Working";
+		}
 	}
 
 }

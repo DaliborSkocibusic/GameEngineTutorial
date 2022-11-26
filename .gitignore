@@ -32,3 +32,5 @@
 *.app
 
 Hazel\bin
+/Hazel/.vs/Hazel
+/Hazel/bin

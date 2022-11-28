@@ -137,6 +137,9 @@ To get a local copy up and running follow these simple example steps.
 Not my project. Following tutorials by The Cherno. Code is 100% not mine. Just for learning. 
 Up to this video in series. 
 
+I am up to here
+https://www.youtube.com/watch?v=dZr-53LAlOw&list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT&index=6
+
 ### Prerequisites
 
 Visual Stuido 2020 with c++

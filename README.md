@@ -115,15 +115,18 @@ History
 
 ## About The Project
 
-Going through The Cherno's Hazel Engine video tutorials. 
+Going through The Cherno's Hazel Engine video tutorials.
 Readme was taken from a template which can be found here: https://github.com/othneildrew/Best-README-Template/pull/73
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
--   [![c++][Visualc++]]
+-   [![c++][visualc++]]
+
+Good pandas dataframe totirial. Linked inlearing Machine learing iwth python chapter 2.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,8 +137,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-Not my project. Following tutorials by The Cherno. Code is 100% not mine. Just for learning. 
-Up to this video in series. 
+Not my project. Following tutorials by The Cherno. Code is 100% not mine. Just for learning.
+Up to this video in series.
 
 I am up to here
 https://www.youtube.com/watch?v=dZr-53LAlOw&list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT&index=6
@@ -176,7 +179,7 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 ## License
 
-Not my code, learning project so no licence applies. Please refer to original work on The Cherno's page for licencing. 
+Not my code, learning project so no licence applies. Please refer to original work on The Cherno's page for licencing.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

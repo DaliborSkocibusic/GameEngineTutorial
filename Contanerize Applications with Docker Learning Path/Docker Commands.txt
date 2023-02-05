@@ -1,0 +1,47 @@
+docker run - Run a docker command
+docker run -ti ubuntu:latest bash - run ubuntu command line
+docker run aldanial/cloc - run the cloc command from github
+
+docker run takes images to containers
+
+docker commit - takes containers to images
+
+docker ps - Show all active containers
+docker ps - l - Show last closed container
+docker ps - al show all containers run including closed ones 
+
+start a docker containter
+make some mods
+
+run docker ps -l to find the container id
+save them with commit
+docker commit CONTAINERID
+docker tage (IMAGEID) my-new-image name
+
+then run
+docker images - showes new image
+
+docker run -ti my-new-image
+
+or
+docker commit contaiername newcontainername
+
+
+----------------------
+docker run
+
+docker run --rm -ti ubuntu sleep 5 - (terminal interactive) used do run in container then delet afterwards (--rm)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
